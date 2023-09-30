@@ -9,6 +9,7 @@
     "dependencies": {
         "@getbrevo/brevo": "^1.0.1",
         "dotenv": "^16.3.1",
-        "express": "~4.16.1"
+        "express": "~4.16.1",
+        "uuid": "^9.0.1"
     }
 }
