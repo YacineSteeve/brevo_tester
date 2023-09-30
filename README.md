@@ -14,5 +14,5 @@ A simple app to test Bravo
 
 ## Results
 
-![Screenshot_20230930_174736_Email](https://github.com/YacineSteeve/brevo_tester/assets/64146788/708b6f0b-f9b6-4608-819f-dd5e71fd3598)
+![Screenshot_20230930_184225_Email](https://github.com/YacineSteeve/brevo_tester/assets/64146788/10abb350-d5cb-4fb1-9b06-f91b9a01497b)
 
