@@ -17,8 +17,8 @@ const mailService = async (message) => {
     mailSenderInstance.subject = 'Test email';
     mailSenderInstance.htmlContent = message;
     mailSenderInstance.sender = {
-        name: 'Yacine BOUKARI',
-        email: 'steeveboukari9@gmail.com'
+        name: 'Tester',
+        email: 'tester@example.com'
     };
     mailSenderInstance.to = [
         {
